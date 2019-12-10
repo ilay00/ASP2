@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>WinExe</OutputType>
+    <StartupObject />
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Shared\Partial\_Recommended_items.cshtml" />
+    <Content Remove="Views\Shared\Partial\_Script.cshtml" />
+    <Content Remove="Views\Shared\Partial\_Style.cshtml" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="BuildBundlerMinifier" Version="3.2.435" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.0.96" />
+  </ItemGroup>
+
+ 
+
+  <ItemGroup>
+    <Content Update="Views\Home\productdetails.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+    <Content Update="Views\Home\shop.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+    <Content Update="Views\Home\contactus.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+    <Content Update="Views\Home\blogsingle.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+    <Content Update="Views\Home\checkout.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+    <Content Update="Views\Home\cart.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+    <Content Update="Views\Shared\Partial\_CategoryTab.cshtml">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+ 
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+  </ItemGroup>
+
+ 
+
+  <ItemGroup>
+    <None Include="Views\Cart\Partial\_CheckOut.cshtml" />
+    <None Include="Views\Profile\Index.cshtml" />
+    <None Include="Views\Profile\Orders.cshtml" />
+    <None Include="Views\Profile\Partial\_ProfileMenu.cshtml" />
+    <None Include="Views\Profile\_ProfileLayout.cshtml" />
+  </ItemGroup>
+
+ 
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\WebAppSATES.Domain\WebAppSATES.Domain.csproj" />
+    <ProjectReference Include="..\..\Services\WebAppSATES.Clients\WebAppSATES.Clients.csproj" />
+    <ProjectReference Include="..\..\Services\WebAppSATES.DAL\WebAppSATES.DAL.csproj" />
+    <ProjectReference Include="..\..\WebAppSATES.Services\WebAppSATES.Services.csproj" />
+  </ItemGroup>
+
+</Project>

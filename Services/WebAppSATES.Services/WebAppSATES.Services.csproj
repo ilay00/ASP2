@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\WebAppSATES.Domain\WebAppSATES.Domain.csproj" />
+    <ProjectReference Include="..\Services\WebAppSATES.DAL\WebAppSATES.DAL.csproj" />
+    <ProjectReference Include="..\Services\WebAppSATES.Interfaces\WebAppSATES.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
