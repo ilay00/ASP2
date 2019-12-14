@@ -1,0 +1,16 @@
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.Services.deps.json
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.Services.dll
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.Services.pdb
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.DAL.dll
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.DomainNew.dll
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.Interfaces.dll
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.DomainNew.pdb
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.DAL.pdb
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\bin\Debug\netcoreapp2.2\WebStore.Interfaces.pdb
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\obj\Debug\netcoreapp2.2\WebStore.Services.csprojAssemblyReference.cache
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\obj\Debug\netcoreapp2.2\WebStore.Services.csproj.CoreCompileInputs.cache
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\obj\Debug\netcoreapp2.2\WebStore.Services.AssemblyInfoInputs.cache
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\obj\Debug\netcoreapp2.2\WebStore.Services.AssemblyInfo.cs
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\obj\Debug\netcoreapp2.2\WebStore.Services.csproj.CopyComplete
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\obj\Debug\netcoreapp2.2\WebStore.Services.dll
+D:\ASP.NET2\Урок2\gb_aspnet_core_level2-dependabot-bundler-Ui-WebStore-wwwroot-lib-bootstrap-jekyll-3.6.3\Services\WebStore.Services\obj\Debug\netcoreapp2.2\WebStore.Services.pdb
