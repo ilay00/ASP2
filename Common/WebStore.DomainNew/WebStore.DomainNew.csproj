@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netstandard2.0\WebStore.DomainNew.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Debug\netstandard2.0\WebStore.DomainNew.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\netstandard2.0\WebStore.DomainNew.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netstandard2.0\WebStore.DomainNew.assets.cache" />
+    <None Include="obj\Debug\netstandard2.0\WebStore.DomainNew.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netstandard2.0\WebStore.DomainNew.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netstandard2.0\WebStore.DomainNew.dll" />
+    <None Include="obj\Debug\netstandard2.0\WebStore.DomainNew.pdb" />
+    <None Include="obj\WebStore.DomainNew.csproj.nuget.cache" />
+    <None Include="obj\WebStore.DomainNew.csproj.nuget.g.props" />
+    <None Include="obj\WebStore.DomainNew.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.2.0" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dto\Order\" />
+    <Folder Include="Dto\User\" />
+  </ItemGroup>
+
+</Project>
