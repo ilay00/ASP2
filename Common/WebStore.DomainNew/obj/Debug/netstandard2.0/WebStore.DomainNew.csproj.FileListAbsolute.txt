@@ -1,0 +1,9 @@
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\bin\Debug\netstandard2.0\WebStore.DomainNew.deps.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\bin\Debug\netstandard2.0\WebStore.DomainNew.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\bin\Debug\netstandard2.0\WebStore.DomainNew.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.csproj.CoreCompileInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.AssemblyInfoInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.AssemblyInfo.cs
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Common\WebStore.DomainNew\obj\Debug\netstandard2.0\WebStore.DomainNew.csprojAssemblyReference.cache
