@@ -1,0 +1,39 @@
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\Webstoretest.deps.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\Webstoretest.runtimeconfig.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\Webstoretest.runtimeconfig.dev.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\Webstoretest.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.csprojAssemblyReference.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.csproj.CoreCompileInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.AssemblyInfoInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.AssemblyInfo.cs
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\Webstoretest.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Views.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Views.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\MiddleWare.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Clients.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.DAL.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.DomainNew.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Interfaces.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Logger.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Services.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.ServicesHosting.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\MiddleWare.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Clients.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.DAL.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.DomainNew.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Interfaces.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Logger.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.Services.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\bin\Debug\netcoreapp2.2\WebStore.ServicesHosting.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.csproj.CopyComplete
+G:\ASP2\урок6\ASP2--5\ASP2--5\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.csprojAssemblyReference.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.csproj.CoreCompileInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.AssemblyInfoInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Tests\Webstoretest\obj\Debug\netcoreapp2.2\Webstoretest.AssemblyInfo.cs

@@ -1,0 +1,99 @@
+2019-12-23 23:18:39,923 [8] ?     - A task was canceled.
+
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at WebStore.Clients.BaseClient.PostAsync[T](String url, T value) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\BaseClient.cs:line 51
+   at WebStore.Clients.Services.UsersClient.GetUserIdAsync(User user, CancellationToken cancel) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\Services\UsersClient.cs:line 30
+   at Microsoft.AspNetCore.Identity.UserManager`1.GetUserIdAsync(TUser user)
+   at Microsoft.AspNetCore.Identity.UserManager`1.ValidatePasswordAsync(TUser user, String password)
+   at Microsoft.AspNetCore.Identity.UserManager`1.UpdatePasswordHash(IUserPasswordStore`1 passwordStore, TUser user, String newPassword, Boolean validatePassword)
+   at Microsoft.AspNetCore.Identity.UserManager`1.CreateAsync(TUser user, String password)
+   at WebStore.Controllers.AccountController.Register(RegisterUserViewModel model) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Ui\WebStore\Controllers\AccountController.cs:line 84
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at WebStore.Startup.<>c.<<Configure>b__5_0>d.MoveNext() in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Ui\WebStore\Startup.cs:line 129
+--- End of stack trace from previous location where exception was thrown ---
+   at WebStore.Services.MiddleWare.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\MiddleWare\ErrorHandlingMiddleware.cs:line 18
+2019-12-23 23:18:40,870 [8] ?     - An unhandled exception has occurred while executing the request.
+
+2019-12-23 23:19:41,467 [23] ?     - No MediaTypeFormatter is available to read an object of type 'Boolean' from content with media type 'text/html'.
+
+System.Net.Http.UnsupportedMediaTypeException: No MediaTypeFormatter is available to read an object of type 'Boolean' from content with media type 'text/html'.
+   at System.Net.Http.HttpContentExtensions.ReadAsAsync[T](HttpContent content, Type type, IEnumerable`1 formatters, IFormatterLogger formatterLogger, CancellationToken cancellationToken)
+   at System.Net.Http.HttpContentExtensions.ReadAsAsync[T](HttpContent content, CancellationToken cancellationToken)
+   at WebStore.Clients.Services.UsersClient.GetLockoutEnabledAsync(User user, CancellationToken cancel) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\Services\UsersClient.cs:line 516
+   at Microsoft.AspNetCore.Identity.UserManager`1.IsLockedOutAsync(TUser user)
+   at Microsoft.AspNetCore.Identity.SignInManager`1.IsLockedOut(TUser user)
+   at Microsoft.AspNetCore.Identity.SignInManager`1.PreSignInCheck(TUser user)
+   at Microsoft.AspNetCore.Identity.SignInManager`1.CheckPasswordSignInAsync(TUser user, String password, Boolean lockoutOnFailure)
+   at Microsoft.AspNetCore.Identity.SignInManager`1.PasswordSignInAsync(TUser user, String password, Boolean isPersistent, Boolean lockoutOnFailure)
+   at Microsoft.AspNetCore.Identity.SignInManager`1.PasswordSignInAsync(String userName, String password, Boolean isPersistent, Boolean lockoutOnFailure)
+   at WebStore.Controllers.AccountController.Login(LoginViewModel model) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Ui\WebStore\Controllers\AccountController.cs:line 39
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at WebStore.Startup.<>c.<<Configure>b__5_0>d.MoveNext() in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Ui\WebStore\Startup.cs:line 129
+--- End of stack trace from previous location where exception was thrown ---
+   at WebStore.Services.MiddleWare.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\MiddleWare\ErrorHandlingMiddleware.cs:line 18
+2019-12-23 23:19:42,918 [23] ?     - An unhandled exception has occurred while executing the request.
+
+2019-12-23 23:31:50,842 [14] ?     - No MediaTypeFormatter is available to read an object of type 'String' from content with media type 'text/html'.
+
+System.Net.Http.UnsupportedMediaTypeException: No MediaTypeFormatter is available to read an object of type 'String' from content with media type 'text/html'.
+   at System.Net.Http.HttpContentExtensions.ReadAsAsync[T](HttpContent content, Type type, IEnumerable`1 formatters, IFormatterLogger formatterLogger, CancellationToken cancellationToken)
+   at System.Net.Http.HttpContentExtensions.ReadAsAsync[T](HttpContent content, IEnumerable`1 formatters, CancellationToken cancellationToken)
+   at System.Net.Http.HttpContentExtensions.ReadAsAsync[T](HttpContent content, CancellationToken cancellationToken)
+   at WebStore.Clients.Services.UsersClient.GetUserIdAsync(User user, CancellationToken cancel) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\Services\UsersClient.cs:line 31
+   at Microsoft.AspNetCore.Identity.UserManager`1.GetUserIdAsync(TUser user)
+   at Microsoft.AspNetCore.Identity.UserManager`1.ValidatePasswordAsync(TUser user, String password)
+   at Microsoft.AspNetCore.Identity.UserManager`1.UpdatePasswordHash(IUserPasswordStore`1 passwordStore, TUser user, String newPassword, Boolean validatePassword)
+   at Microsoft.AspNetCore.Identity.UserManager`1.CreateAsync(TUser user, String password)
+   at WebStore.Controllers.AccountController.Register(RegisterUserViewModel model) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Ui\WebStore\Controllers\AccountController.cs:line 84
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at WebStore.Startup.<>c.<<Configure>b__5_0>d.MoveNext() in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Ui\WebStore\Startup.cs:line 129
+--- End of stack trace from previous location where exception was thrown ---
+   at WebStore.Services.MiddleWare.ErrorHandlingMiddleware.Invoke(HttpContext context) in D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\MiddleWare\ErrorHandlingMiddleware.cs:line 18
+2019-12-23 23:31:52,583 [14] ?     - An unhandled exception has occurred while executing the request.
+

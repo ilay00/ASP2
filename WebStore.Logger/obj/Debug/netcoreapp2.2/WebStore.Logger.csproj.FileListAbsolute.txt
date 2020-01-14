@@ -1,0 +1,25 @@
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.Logger.deps.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.Logger.runtimeconfig.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.Logger.runtimeconfig.dev.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.Logger.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.DomainNew.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.Interfaces.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.Interfaces.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.DomainNew.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.csprojAssemblyReference.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.csproj.CoreCompileInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.RazorAssemblyInfo.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.RazorAssemblyInfo.cs
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.AssemblyInfoInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.AssemblyInfo.cs
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.RazorTargetAssemblyInfo.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.csproj.CopyComplete
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\bin\Debug\netcoreapp2.2\WebStore.Logger.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.pdb
+G:\ASP2\урок6\ASP2--5\ASP2--5\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.csprojAssemblyReference.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.csproj.CoreCompileInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.RazorAssemblyInfo.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.RazorAssemblyInfo.cs
+G:\ASP2\урок6\ASP2--5\ASP2--5\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.AssemblyInfoInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\WebStore.Logger\obj\Debug\netcoreapp2.2\WebStore.Logger.AssemblyInfo.cs

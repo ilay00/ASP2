@@ -1,0 +1,9 @@
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\bin\Release\netstandard2.0\WebStore.DomainNew.deps.json
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\bin\Release\netstandard2.0\WebStore.DomainNew.dll
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\bin\Release\netstandard2.0\WebStore.DomainNew.pdb
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\obj\Release\netstandard2.0\WebStore.DomainNew.csprojAssemblyReference.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\obj\Release\netstandard2.0\WebStore.DomainNew.csproj.CoreCompileInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\obj\Release\netstandard2.0\WebStore.DomainNew.AssemblyInfoInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\obj\Release\netstandard2.0\WebStore.DomainNew.AssemblyInfo.cs
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\obj\Release\netstandard2.0\WebStore.DomainNew.dll
+G:\ASP2\урок6\ASP2--5\ASP2--5\Common\WebStore.DomainNew\obj\Release\netstandard2.0\WebStore.DomainNew.pdb

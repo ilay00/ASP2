@@ -1,0 +1,16 @@
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\bin\Debug\netstandard2.0\WebStore.DAL.deps.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\bin\Debug\netstandard2.0\WebStore.DAL.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\bin\Debug\netstandard2.0\WebStore.DAL.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\bin\Debug\netstandard2.0\WebStore.DomainNew.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\bin\Debug\netstandard2.0\WebStore.DomainNew.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.csprojAssemblyReference.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.csproj.CoreCompileInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.AssemblyInfoInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.AssemblyInfo.cs
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.csproj.CopyComplete
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.pdb
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.csproj.CoreCompileInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.AssemblyInfoInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.AssemblyInfo.cs
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.DAL\obj\Debug\netstandard2.0\WebStore.DAL.csprojAssemblyReference.cache

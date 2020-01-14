@@ -1,0 +1,18 @@
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\bin\Debug\netcoreapp2.2\WebStore.Clients.deps.json
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\bin\Debug\netcoreapp2.2\WebStore.Clients.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\bin\Debug\netcoreapp2.2\WebStore.Clients.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\bin\Debug\netcoreapp2.2\WebStore.DomainNew.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\bin\Debug\netcoreapp2.2\WebStore.Interfaces.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\bin\Debug\netcoreapp2.2\WebStore.Interfaces.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\bin\Debug\netcoreapp2.2\WebStore.DomainNew.pdb
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.csprojAssemblyReference.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.csproj.CoreCompileInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.AssemblyInfoInputs.cache
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.AssemblyInfo.cs
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.csproj.CopyComplete
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.dll
+D:\ASP.NET2\Урок3\gb_aspnet_core_level2-master (2)\gb_aspnet_core_level2-master\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.pdb
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.csproj.CoreCompileInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.AssemblyInfoInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.AssemblyInfo.cs
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Clients\obj\Debug\netcoreapp2.2\WebStore.Clients.csprojAssemblyReference.cache

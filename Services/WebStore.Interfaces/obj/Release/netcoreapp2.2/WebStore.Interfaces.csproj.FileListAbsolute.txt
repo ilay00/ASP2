@@ -1,0 +1,12 @@
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\bin\Release\netcoreapp2.2\WebStore.Interfaces.deps.json
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\bin\Release\netcoreapp2.2\WebStore.Interfaces.dll
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\bin\Release\netcoreapp2.2\WebStore.Interfaces.pdb
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\bin\Release\netcoreapp2.2\WebStore.DomainNew.dll
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\bin\Release\netcoreapp2.2\WebStore.DomainNew.pdb
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\obj\Release\netcoreapp2.2\WebStore.Interfaces.csprojAssemblyReference.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\obj\Release\netcoreapp2.2\WebStore.Interfaces.csproj.CoreCompileInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\obj\Release\netcoreapp2.2\WebStore.Interfaces.AssemblyInfoInputs.cache
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\obj\Release\netcoreapp2.2\WebStore.Interfaces.AssemblyInfo.cs
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\obj\Release\netcoreapp2.2\WebStore.Interfaces.csproj.CopyComplete
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\obj\Release\netcoreapp2.2\WebStore.Interfaces.dll
+G:\ASP2\урок6\ASP2--5\ASP2--5\Services\WebStore.Interfaces\obj\Release\netcoreapp2.2\WebStore.Interfaces.pdb
