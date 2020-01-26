@@ -1,0 +1,55 @@
+﻿@model WebStore.DomainNew.ViewModels.ProductViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="row">
+    <div class="col-md-4">
+        <from is-active="Edit" method-post>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="Id" type="hidden" />
+            <div class="from-group">
+                <label asp-for="Name" class="control-label"></label>
+                <label asp-for="Name" class="from-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="from-group">
+                <label asp-for="Order" class="control-label"></label>
+                <label asp-for="Order" class="from-control" />
+                <span asp-validation-for="Order" class="text-danger"></span>
+            </div>
+            <div class="from-group">
+                <label asp-for="ImageUrl" class="control-label"></label>
+                <label asp-for="ImageUrl" class="from-control" />
+                <span asp-validation-for="ImageUrl" class="text-danger"></span>
+            </div>
+            <div class="from-group">
+                <label asp-for="Price" class="control-label"></label>
+                <label asp-for="Price" class="from-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="from-group">
+                <label asp-for="BrandName" class="control-label"></label>
+                <select asp-for="BrandId" asp-items="@Model.Brands" class="from-control">
+                    <option selected="selected" disabled="disabled">Выберите бренд</option>
+                </select>
+            </div>
+            <div class="from-group">
+                <label asp-for="Section" class="control-label"></label>
+                <select asp-for="SectionId" asp-items="@Model.Section" class="from-control">
+                    <option selected="selected" disabled="disabled">Выберите секцию</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Сохронить" class="bth btn-default"/>
+            </div>
+            </from>
+        </div>
+        </div>
+    <div>
+        <a asp-action="ProductList">Назад</a>
+    </div>
+
+@*@Html.EditorForModel(); генератор разметки формы *@
+
+
